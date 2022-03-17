@@ -1,1 +1,1 @@
-readme for debugging codes
+readme for debugging code
