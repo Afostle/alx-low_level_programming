@@ -1,1 +1,1 @@
-README for pointers
+README for pointer
