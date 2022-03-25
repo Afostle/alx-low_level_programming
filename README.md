@@ -1,1 +1,1 @@
-readme for nested loops
+readme for pointers and arrays
