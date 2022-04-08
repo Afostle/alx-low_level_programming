@@ -1,1 +1,1 @@
-readme for pointers and arrays
+readme for mallocs
