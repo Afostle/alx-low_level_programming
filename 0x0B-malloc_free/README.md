@@ -1,1 +1,1 @@
-readme for mallocs
+readme for malloc
