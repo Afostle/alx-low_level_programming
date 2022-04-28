@@ -1,1 +1,1 @@
-readme for bit manipulation
+readme for bits manipulation
